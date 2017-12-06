@@ -6,7 +6,7 @@ I have a feeling there is a lag from the time i created my website to the time i
 
 Hello World, I am working on my git hub lab. 
 
-![Image](src)
+[presence.jpg](src)
 
 ## Welcome to GitHub Pages
 
