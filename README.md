@@ -6,6 +6,6 @@ I have a feeling there is a lag from the time i created my website to the time i
 
 Hello World, I am working on my git hub lab. 
 
-the following is the photo i used for the IOT lab.
+the following is the photo I used for the IOT lab. This is when I turned my phone into a security camera. 
 
 ![image](presence.jpg)
