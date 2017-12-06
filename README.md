@@ -1,6 +1,9 @@
 This is my github page.
 
 Why is this not showing up on the website?
+
+I have a feeling there is a lag from the time i created my website to the time it is visible on the website, becuase i putzed around with it for half and hour and then all of a sudden it just worked.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stevenkuski/stevenkuski.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
